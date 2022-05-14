@@ -3,6 +3,7 @@ REUPLOAD ? BOLEH
 RECODE ? BOLEH
 JUAL ? MATI AJA LU SUU
 
+[ Teruntuk Manik Official Mohon Jangan Lagi Diperjual Belikan ]
 
  //━━━━━━━━━━━━━━━[ ᴄᴏᴍᴍᴀɴᴅ ᴛᴇʀᴍᴜx ]━━━━━━━━━━━━━━━\\
  $ pkg upgrade && pkg update
